@@ -1,0 +1,2 @@
+# rename to .env
+GOOGLE_API_KEY="your google sheets api key here"
