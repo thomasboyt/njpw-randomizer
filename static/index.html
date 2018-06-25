@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What NJPW Match Should I Watch?</title>
+
+  <!-- debug: -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+  <!-- production: -->
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+  <div id="app">
+    <div v-if="isLoading">
+      loading...
+    </div>
+    <div v-else>
+
+      <header>
+        <h1>You should watch</h1>
+      </header>
+
+      <main>
+
+        <a v-bind:href="match.url">
+          <h2>
+          {{match.title}}
+          </h2>
+        </a>
+
+        <p class="details">
+          {{match.date}} &middot; {{match.event}}
+          <span v-if="match.notes">&middot; {{match.notes}}</span>
+
+          <div v-if="match.recommendationLevel > 0">
+            <span v-if="match.recommendationLevel === 1">recommended</span>
+            <span v-if="match.recommendationLevel === 2">highly recommended</span>
+          </div>
+        </p>
+
+        <button v-on:click="setRandomMatch">get another</button>
+
+        <br><br>
+
+        <label>
+          <input type="checkbox" v-model="filters.pre2015">
+          only pre-2015 matches
+        </label><br>
+        <label>
+          <input type="checkbox" v-model="filters.onlyRecommended">
+          only recommended+ matches
+        </label>
+
+      </main>
+
+      <footer>
+        <p>
+          randomizer based off <a href="https://docs.google.com/spreadsheets/d/1ZsZCBTpKjHzdbCpKZ1No1KAdpmOd2OcgSMfC1-oa7pI/">@MrLARIATO's spreadsheet</a>
+        </p>
+      </footer>
+    </div>
+  </div>
+</body>
+
+<script src="/app.js"></script>
+
+</html>
