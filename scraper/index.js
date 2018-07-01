@@ -31,6 +31,8 @@ async function main() {
   const entries = [];
 
   for (let row of resp.data.values) {
+    if (row[0] === "Date") continue;
+
     const [date, title, url, event, location, notes, englishUrl] = row;
     const entry = { date, title, url, event, location, notes, englishUrl };
     entries.push(entry);
