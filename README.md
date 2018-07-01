@@ -5,7 +5,8 @@
 ## Scraper Debugging
 
 Run ```npm install``` to restore the necessary node.js packages.
-Get a [Google Sheets API Key](https://console.developers.google.com/apis/credentials?pli=1). Set it in your environment variable GOOGLE_API_KEY and run ```node index.js```.
+Get a [Google Sheets API Key](https://console.developers.google.com/apis/credentials?pli=1). 
+Set it in your environment variable GOOGLE_API_KEY or rename the "_env" file to ".env" and set it there, and run ```node index.js```.
 
 ## Static Site Debugging
 
