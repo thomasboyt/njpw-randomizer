@@ -7,7 +7,7 @@ const app = new Vue({
     match: null,
     filters: {
       pre2015: false,
-      onlyRecommended: false,
+      onlyRecommended: 0,
     },
   },
 
@@ -35,7 +35,9 @@ const app = new Vue({
       }
 
       if (this.filters.onlyRecommended) {
-        entries = entries.filter((entry) => entry.recommendationLevel > 0);
+        entries = entries.filter(
+          (entry) => entry.recommendationLevel >= this.filters.onlyRecommended
+        );
       }
 
       const idx = Math.floor(Math.random() * entries.length);

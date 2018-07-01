@@ -53,9 +53,13 @@ async function main() {
     entries[i].recommendationLevel = level;
   }
 
-  fs.writeFileSync('../static/matches.json', JSON.stringify({ entries }, undefined, 2), {
-    encoding: 'utf8',
-  });
+  fs.writeFileSync(
+    '../static/matches.json',
+    JSON.stringify({ entries }, undefined, 2),
+    {
+      encoding: 'utf8',
+    }
+  );
 }
 
 main().catch(console.error);
