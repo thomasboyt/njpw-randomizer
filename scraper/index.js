@@ -42,7 +42,7 @@ async function main() {
   resp = await sheets.spreadsheets.get({
     spreadsheetId: sheetId,
     includeGridData: true,
-    ranges: 'A5:A',
+    ranges: 'A6:A',
   });
 
   const sheet = resp.data.sheets[0];
