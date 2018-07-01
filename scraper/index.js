@@ -31,6 +31,8 @@ async function main() {
   const entries = [];
 
   for (let row of resp.data.values) {
+    if (row[0] === "Date") continue;
+
     const [date, title, url, event, location, notes, englishUrl] = row;
     const entry = { date, title, url, event, location, notes, englishUrl };
     entries.push(entry);
@@ -40,7 +42,7 @@ async function main() {
   resp = await sheets.spreadsheets.get({
     spreadsheetId: sheetId,
     includeGridData: true,
-    ranges: 'A5:A',
+    ranges: 'A6:A',
   });
 
   const sheet = resp.data.sheets[0];
@@ -51,7 +53,7 @@ async function main() {
     entries[i].recommendationLevel = level;
   }
 
-  fs.writeFileSync('matches.json', JSON.stringify({ entries }, undefined, 2), {
+  fs.writeFileSync('../static/matches.json', JSON.stringify({ entries }, undefined, 2), {
     encoding: 'utf8',
   });
 }
