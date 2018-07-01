@@ -41,8 +41,8 @@
           <span v-if="match.notes">&middot; {{match.notes}}</span>
 
           <div v-if="match.recommendationLevel > 0">
-            <span v-if="match.recommendationLevel === 1">recommended</span>
-            <span v-if="match.recommendationLevel === 2">highly recommended</span>
+            <span style="background-color:#fff2cc" v-if="match.recommendationLevel === 1">recommended</span>
+            <span style="background-color:#ffd966" v-if="match.recommendationLevel === 2">highly recommended</span>
           </div>
         </p>
 
@@ -55,8 +55,9 @@
           only pre-2015 matches
         </label><br>
         <label>
-          <input type="checkbox" v-model="filters.onlyRecommended">
-          only recommended+ matches
+          <input type="radio" v-model="filters.onlyRecommended" v-bind:value="0"> any match
+          <input type="radio" v-model="filters.onlyRecommended" v-bind:value="1"> only <span style="background-color:#fff2cc">recommended</span> matches or higher
+          <input type="radio" v-model="filters.onlyRecommended" v-bind:value="2"> only <span style="background-color:#ffd966">highly recommended</span> or higher.
         </label>
 
       </main>
