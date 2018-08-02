@@ -1042,7 +1042,7 @@
     {
       "date": "1987.03.26",
       "title": "Antonio Inoki vs Masa Saito",
-      "url": "http://njpwworld.com/p/t_0_osaka_1_06",
+      "url": "https://njpwworld.com/p/s_series_00076_1_2",
       "event": "Inoki Toukon Live II",
       "location": "Osaka Castle Hall",
       "recommendationLevel": 1
@@ -1877,7 +1877,7 @@
     {
       "date": "1993.08.07",
       "title": "Tatsumi Fujinami vs Hiroshi Hase",
-      "url": "http://njpwworld.com/p/t_0_g1_01_03/e/sp/789",
+      "url": "https://njpwworld.com/p/s_series_00334_1_01",
       "event": "G1 Climax Day 6",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax FINAL",
@@ -2435,7 +2435,7 @@
     {
       "date": "1996.01.04",
       "title": "Keiji Mutoh (c) vs Nobuhiko Takada",
-      "url": "http://njpwworld.com/p/1_4tokusyu_1996_10",
+      "url": "https://njpwworld.com/p/s_series_00141_1_10",
       "event": "Wrestling World 1996",
       "location": "Tokyo Dome",
       "notes": "IWGP Heavyweight Title",
@@ -3161,7 +3161,7 @@
     {
       "date": "2002.08.11",
       "title": "Masahiro Chono vs Yoshihiro Takayama",
-      "url": "http://njpwworld.com/p/t_0_g1_01_12/e/sp/789",
+      "url": "https://njpwworld.com/p/s_series_00339_1_01",
       "event": "G1 Climax Day 7",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax FINAL",
@@ -3237,7 +3237,7 @@
     },
     {
       "date": "2003.05.02",
-      "title": "Kenta Kobshi (c) vs Masahiro Chono",
+      "title": "Kenta Kobashi (c) vs Masahiro Chono",
       "url": "http://njpwworld.com/p/s_series_00163_1_1",
       "event": "Ultimate Crush",
       "location": "Tokyo Dome",
@@ -3247,7 +3247,7 @@
     {
       "date": "2003.08.17",
       "title": "Hiroyoshi Tenzan vs Jun Akiyama",
-      "url": "http://njpwworld.com/p/t_0_g1_01_13/e/sp/789",
+      "url": "https://njpwworld.com/p/s_series_00278_1_1",
       "event": "G1 Climax Day 7",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax FINAL",
@@ -3508,7 +3508,7 @@
     {
       "date": "2007.08.12",
       "title": "Togi Makabe vs Hiroshi Tanahashi",
-      "url": "http://njpwworld.com/p/s_series_00170_1_1",
+      "url": "https://njpwworld.com/p/s_series_00170_1_1/e/sp/1769",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Semi-Final",
@@ -3517,7 +3517,7 @@
     {
       "date": "2007.08.12",
       "title": "Hiroshi Tanahashi vs Yuji Nagata",
-      "url": "http://njpwworld.com/p/s_series_00170_1_2",
+      "url": "https://njpwworld.com/p/s_series_00170_1_1/e/sp/1769",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Final",
@@ -3569,8 +3569,35 @@
     },
     {
       "date": "2008.08.17",
+      "title": "Toshiaki Kawada vs Yutaka Yoshie",
+      "url": "https://njpwworld.com/p/s_series_00343_1_1/e/sp/1769",
+      "event": "G1 Climax Day 7",
+      "location": "Ryogoku Kokugikan",
+      "notes": "G1 Climax Block B Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2008.08.17",
+      "title": "Hirooki Goto vs Yuji Nagata",
+      "url": "https://njpwworld.com/p/s_series_00343_1_1/e/sp/1769",
+      "event": "G1 Climax Day 7",
+      "location": "Ryogoku Kokugikan",
+      "notes": "G1 Climax Block B Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2008.08.17",
+      "title": "Hiroshi Tanahashi vs Shinjiro Otani",
+      "url": "https://njpwworld.com/p/s_series_00343_1_1/e/sp/1769",
+      "event": "G1 Climax Day 7",
+      "location": "Ryogoku Kokugikan",
+      "notes": "G1 Climax Block A Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2008.08.17",
       "title": "Hirooki Goto vs Togi Makabe",
-      "url": "http://njpwworld.com/p/t_0_g1_01_18/e/sp/789",
+      "url": "https://njpwworld.com/p/s_series_00343_1_01",
       "event": "G1 Climax Day 7",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax FINAL",
@@ -3644,6 +3671,15 @@
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Semi-Final",
       "recommendationLevel": 0
+    },
+    {
+      "date": "2009.08.16",
+      "title": "Shinsuke Nakamura vs Hiroshi Tanahashi",
+      "url": "https://njpwworld.com/p/s_series_00173_1_1/e/sp/1769",
+      "event": "G1 Climax FINAL",
+      "location": "Ryogoku Kokugikan",
+      "notes": "G1 Climax Semi-Final",
+      "recommendationLevel": 1
     },
     {
       "date": "2009.08.16",
@@ -3733,6 +3769,15 @@
       "location": "Tsukisamu Green Dome",
       "notes": "IWGP Heavyweight Title",
       "recommendationLevel": 0
+    },
+    {
+      "date": "2010.08.15",
+      "title": "Shinsuke Nakamura vs Go Shiozaki",
+      "url": "https://njpwworld.com/p/s_series_00344_1_1/e/sp/1769",
+      "event": "G1 Climax Day 8",
+      "location": "Ryogoku Kokugikan",
+      "notes": "G1 Climax Block B Match",
+      "recommendationLevel": 1
     },
     {
       "date": "2010.08.15",
@@ -4421,7 +4466,7 @@
     {
       "date": "2012.08.12",
       "title": "Hiroyoshi Tenzan vs Shinsuke Nakamura",
-      "url": "http://njpwworld.com/p/s_series_00197_3_2",
+      "url": "https://njpwworld.com/p/s_series_00197_3_02",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block B Match",
@@ -4430,7 +4475,7 @@
     {
       "date": "2012.08.12",
       "title": "Hirooki Goto vs Tetsuya Naito",
-      "url": "http://njpwworld.com/p/s_series_00197_3_3",
+      "url": "https://njpwworld.com/p/s_series_00197_3_03",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block B Match",
@@ -4439,7 +4484,7 @@
     {
       "date": "2012.08.12",
       "title": "Yuji Nagata vs Minoru Suzuki",
-      "url": "http://njpwworld.com/p/s_series_00197_3_7",
+      "url": "https://njpwworld.com/p/s_series_00197_3_07",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block A Match",
@@ -4448,7 +4493,7 @@
     {
       "date": "2012.08.12",
       "title": "Hiroshi Tanahashi vs Karl Anderson",
-      "url": "http://njpwworld.com/p/s_series_00197_3_8",
+      "url": "https://njpwworld.com/p/s_series_00197_3_08",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block A Match",
@@ -4457,7 +4502,7 @@
     {
       "date": "2012.08.12",
       "title": "Karl Anderson vs Kazuchika Okada",
-      "url": "http://njpwworld.com/p/s_series_00197_3_9",
+      "url": "https://njpwworld.com/p/s_series_00197_3_09",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax FINAL",
@@ -5066,7 +5111,7 @@
     {
       "date": "2013.08.11",
       "title": "Tetsuya Naito vs Karl Anderson",
-      "url": "http://njpwworld.com/p/s_series_00211_4_4",
+      "url": "https://njpwworld.com/p/s_series_00211_4_04",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block B Match",
@@ -5075,7 +5120,7 @@
     {
       "date": "2013.08.11",
       "title": "Lance Archer vs Davey Boy Smith Jr.",
-      "url": "http://njpwworld.com/p/s_series_00211_4_5",
+      "url": "http://njpwworld.com/p/s_series_00211_4_05",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block A Match",
@@ -5084,7 +5129,7 @@
     {
       "date": "2013.08.11",
       "title": "Satoshi Kojima vs Kazuchika Okada",
-      "url": "http://njpwworld.com/p/s_series_00211_4_7",
+      "url": "http://njpwworld.com/p/s_series_00211_4_07",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block A Match",
@@ -5093,7 +5138,7 @@
     {
       "date": "2013.08.11",
       "title": "Hiroshi Tanahashi vs Katsuyori Shibata",
-      "url": "http://njpwworld.com/p/s_series_00211_4_8",
+      "url": "http://njpwworld.com/p/s_series_00211_4_08",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Block A Match",
@@ -5102,7 +5147,7 @@
     {
       "date": "2013.08.11",
       "title": "Hiroshi Tanahashi vs Tetsuya Naito",
-      "url": "http://njpwworld.com/p/s_series_00211_4_9",
+      "url": "http://njpwworld.com/p/s_series_00211_4_09",
       "event": "G1 Climax FINAL",
       "location": "Ryogoku Kokugikan",
       "notes": "G1 Climax Final",
@@ -5826,7 +5871,7 @@
     {
       "date": "2014.08.10",
       "title": "Time Splitters (c) vs reDRagon",
-      "url": "http://njpwworld.com/p/s_series_00232_12_5",
+      "url": "http://njpwworld.com/p/s_series_00232_12_05",
       "event": "G1 Climax FINAL",
       "location": "Seibu Dome",
       "notes": "IWGP Jr. Heavyweight Tag Titles",
@@ -5835,7 +5880,7 @@
     {
       "date": "2014.08.10",
       "title": "Tetsuya Naito vs Tomoaki Honma",
-      "url": "http://njpwworld.com/p/s_series_00232_12_6",
+      "url": "http://njpwworld.com/p/s_series_00232_12_06",
       "event": "G1 Climax FINAL",
       "location": "Seibu Dome",
       "recommendationLevel": 0
@@ -5843,7 +5888,7 @@
     {
       "date": "2014.08.10",
       "title": "Hirooki Goto vs Katsuyori Shibata",
-      "url": "http://njpwworld.com/p/s_series_00232_12_8",
+      "url": "http://njpwworld.com/p/s_series_00232_12_08",
       "event": "G1 Climax FINAL",
       "location": "Seibu Dome",
       "recommendationLevel": 2
@@ -5851,7 +5896,7 @@
     {
       "date": "2014.08.10",
       "title": "AJ Styles vs Hiroshi Tanahashi",
-      "url": "http://njpwworld.com/p/s_series_00232_12_9",
+      "url": "http://njpwworld.com/p/s_series_00232_12_09",
       "event": "G1 Climax FINAL",
       "location": "Seibu Dome",
       "notes": "G1 3rd Place Battle",
@@ -5998,7 +6043,7 @@
     {
       "date": "2015.01.04",
       "title": "Kazushi Sakuraba vs Minoru Suzuki",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_7",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "notes": "UWFi Rules",
@@ -6007,7 +6052,7 @@
     {
       "date": "2015.01.04",
       "title": "Tomohiro Ishii (c) vs Togi Makabe",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_8",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "notes": "NEVER Openweight Title",
@@ -6016,7 +6061,7 @@
     {
       "date": "2015.01.04",
       "title": "Karl Anderson & Doc Gallows (c) vs Katsuyori Shibata & Hirooki Goto",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_11",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "notes": "IWGP Heavyweight Tag Titles",
@@ -6025,7 +6070,7 @@
     {
       "date": "2015.01.04",
       "title": "Tetsuya Naito vs AJ Styles",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_12",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "recommendationLevel": 1
@@ -6033,7 +6078,7 @@
     {
       "date": "2015.01.04",
       "title": "Shinsuke Nakamura (c) vs Kota Ibushi",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_13",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "notes": "IWGP Intercontinental Title",
@@ -6042,7 +6087,7 @@
     {
       "date": "2015.01.04",
       "title": "Hiroshi Tanahashi (c) vs Kazuchika Okada",
-      "url": "http://njpwworld.com/p/s_series_00248_1_2",
+      "url": "https://njpwworld.com/p/s_series_00248_1_14",
       "event": "Wrestle Kingdom 9",
       "location": "Tokyo Dome",
       "notes": "IWGP Heavyweight Title",
@@ -14488,7 +14533,7 @@
       "url": "https://njpwworld.com/p/s_series_00482_3_09",
       "event": "Wrestling Dontaku Night 2",
       "location": "Fukuoka National Centre",
-      "notes": "IWGP Heavyweight Tag Title",
+      "notes": "IWGP Heavyweight Title",
       "englishUrl": "https://njpwworld.com/p/s_series_00482_4_09",
       "recommendationLevel": 2
     },
@@ -14509,6 +14554,541 @@
       "location": "York Hall, London",
       "notes": "RPW Undisputed British Heavyweight Title",
       "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.15",
+      "title": "Shota Umino vs Daisuke Sekimoto",
+      "url": "https://njpwworld.com/p/s_series_00483_1_04",
+      "event": "Lion's Gate Project: 12",
+      "location": "Shinjuku FACE",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00483_2_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.15",
+      "title": "Yuji Nagata vs Ayato Yoshida",
+      "url": "https://njpwworld.com/p/s_series_00483_1_05",
+      "event": "Lion's Gate Project: 12",
+      "location": "Shinjuku FACE",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00483_2_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.18",
+      "title": "Tiger Mask vs Yoshinobu Kanemaru",
+      "url": "https://njpwworld.com/p/s_series_00484_2_05",
+      "event": "BoSJ Day 1",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block A Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_5_05",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.18",
+      "title": "ACH vs Flip Gordon",
+      "url": "https://njpwworld.com/p/s_series_00484_2_06",
+      "event": "BoSJ Day 1",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block A Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_5_06",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.18",
+      "title": "Will Ospreay vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_series_00484_2_08",
+      "event": "BoSJ Day 1",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block A Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_5_08",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.19",
+      "title": "Dragon Lee vs SHO",
+      "url": "https://njpwworld.com/p/s_series_00484_3_05",
+      "event": "BoSJ Day 2",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_6_05",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.19",
+      "title": "Ryusuke Taguchi vs El Desperado",
+      "url": "https://njpwworld.com/p/s_series_00484_3_06",
+      "event": "BoSJ Day 2",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_6_06",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.19",
+      "title": "Chris Sabin vs KUSHIDA",
+      "url": "https://njpwworld.com/p/s_series_00484_3_07",
+      "event": "BoSJ Day 2",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_6_07",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.19",
+      "title": "Hiromu Takahashi vs Marty Scurll",
+      "url": "https://njpwworld.com/p/s_series_00484_3_08",
+      "event": "BoSJ Day 2",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_6_08",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.20",
+      "title": "BUSHI vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_archive_92_1_07",
+      "event": "BoSJ Day 3",
+      "location": "Kira Messe Numazu",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.20",
+      "title": "ACH vs Will Ospreay",
+      "url": "https://njpwworld.com/p/s_archive_92_1_08",
+      "event": "BoSJ Day 3",
+      "location": "Kira Messe Numazu",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.22",
+      "title": "Chris Sabin vs SHO",
+      "url": "https://njpwworld.com/p/s_series_00484_4_05",
+      "event": "BoSJ Day 4",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_7_05",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.22",
+      "title": "KUSHIDA vs Marty Scurll",
+      "url": "https://njpwworld.com/p/s_series_00484_4_07",
+      "event": "BoSJ Day 4",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_7_07",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.22",
+      "title": "Hiromu Takahashi vs El Desperado",
+      "url": "https://njpwworld.com/p/s_series_00484_4_08",
+      "event": "BoSJ Day 4",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_7_08",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.24",
+      "title": "Flip Gordon vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_archive_92_2_07",
+      "event": "BoSJ Day 5",
+      "location": "Shiga Prefectural Gym",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.24",
+      "title": "Will Ospreay vs YOH",
+      "url": "https://njpwworld.com/pg/s_archive_92_2",
+      "event": "BoSJ Day 5",
+      "location": "Shiga Prefectural Gym",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.25",
+      "title": "El Desperado vs SHO",
+      "url": "https://njpwworld.com/p/s_archive_92_3_07",
+      "event": "BoSJ Day 6",
+      "location": "Osaka Municipal Gym",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.25",
+      "title": "Dragon Lee vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_archive_92_3_08",
+      "event": "BoSJ Day 6",
+      "location": "Osaka Municipal Gym",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.26",
+      "title": "Will Ospreay vs BUSHI",
+      "url": "https://njpwworld.com/p/s_archive_92_4_08",
+      "event": "BoSJ Day 7",
+      "location": "Nagoya Congress Centre",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.27",
+      "title": "Chris Sabin vs Dragon Lee",
+      "url": "https://njpwworld.com/p/s_archive_92_5_06",
+      "event": "BoSJ Day 8",
+      "location": "Nagoya Congress Centre",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.27",
+      "title": "KUSHIDA vs SHO",
+      "url": "https://njpwworld.com/p/s_archive_92_5_07",
+      "event": "BoSJ Day 8",
+      "location": "Nagoya Congress Centre",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.27",
+      "title": "Ryusuke Taguchi vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_archive_92_5_08",
+      "event": "BoSJ Day 8",
+      "location": "Nagoya Congress Centre",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.27",
+      "title": "Adam Page vs Hiroshi Tanahashi",
+      "url": "https://njpwworld.com/p/s_archive_93_3_02",
+      "event": "ROH Honor United",
+      "location": "Doncaster Dome",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.27",
+      "title": "The Young Bucks vs EVIL & SANADA vs Marseglia & O'Ryan vs The Briscoes",
+      "url": "https://njpwworld.com/p/s_archive_93_3_03",
+      "event": "ROH Honor United",
+      "location": "Doncaster Dome",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.29",
+      "title": "ACH vs BUSHI",
+      "url": "https://njpwworld.com/p/s_archive_92_6_06",
+      "event": "BoSJ Day 9",
+      "location": "Tochigi Sports Park",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.29",
+      "title": "Flip Gordon vs YOH",
+      "url": "https://njpwworld.com/p/s_archive_92_6_07",
+      "event": "BoSJ Day 9",
+      "location": "Tochigi Sports Park",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.29",
+      "title": "Will Ospreay vs Yoshinobu Kanemaru",
+      "url": "https://njpwworld.com/p/s_archive_92_6_08",
+      "event": "BoSJ Day 9",
+      "location": "Tochigi Sports Park",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.30",
+      "title": "Ryusuke Taguchi vs SHO",
+      "url": "https://njpwworld.com/p/s_archive_92_7_06",
+      "event": "BoSJ Day 10",
+      "location": "Fukushima Big Palette",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.30",
+      "title": "Chris Sabin vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_archive_92_7_07",
+      "event": "BoSJ Day 10",
+      "location": "Fukushima Big Palette",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.05.30",
+      "title": "KUSHIDA vs El Desperado",
+      "url": "https://njpwworld.com/p/s_archive_92_7_08",
+      "event": "BoSJ Day 10",
+      "location": "Fukushima Big Palette",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.05.31",
+      "title": "ACH vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_archive_92_8_06",
+      "event": "BoSJ Day 11",
+      "location": "Hachinohe East City Gym",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.05.31",
+      "title": "Will Ospreay vs Tiger Mask",
+      "url": "https://njpwworld.com/p/s_archive_92_8_07",
+      "event": "BoSJ Day 11",
+      "location": "Hachinohe East City Gym",
+      "notes": "Best of the Super Jr's Block A Match",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.02",
+      "title": "SHO vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_archive_92_9_07",
+      "event": "BoSJ Day 12",
+      "location": "New Sunpia Takasaki",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.02",
+      "title": "KUSHIDA vs Dragon Lee",
+      "url": "https://njpwworld.com/p/s_archive_92_9_08",
+      "event": "BoSJ Day 12",
+      "location": "New Sunpia Takasaki",
+      "notes": "Best of the Super Jr's Block B Match",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.03",
+      "title": "Dragon Lee vs El Desperado",
+      "url": "https://njpwworld.com/p/s_series_00484_8_04",
+      "event": "BoSJ Day 13",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_9_04",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.03",
+      "title": "Flip Gordon vs Will Ospreay",
+      "url": "https://njpwworld.com/p/s_series_00484_8_05",
+      "event": "BoSJ Day 13",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block A Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_9_05",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.03",
+      "title": "YOH vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_series_00484_8_06",
+      "event": "BoSJ Day 13",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block A Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_9_06",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.03",
+      "title": "SHO vs Marty Scurll",
+      "url": "https://njpwworld.com/p/s_series_00484_8_07",
+      "event": "BoSJ Day 13",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_9_07",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.03",
+      "title": "KUSHIDA vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_series_00484_8_08",
+      "event": "BoSJ Day 13",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's Block B Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_9_08",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.04",
+      "title": "KUSHIDA, Taguchi, Dragon Lee & ACH vs Naito, SANADA, EVIL & BUSHI",
+      "url": "https://njpwworld.com/p/s_series_00484_10_05",
+      "event": "BoSJ Day 14",
+      "location": "Korakuen Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_11_05",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.04",
+      "title": "Kazuchika Okada & Will Ospreay vs Kota Ibushi & Chase Owens",
+      "url": "https://njpwworld.com/p/s_series_00484_10_06",
+      "event": "BoSJ Day 14",
+      "location": "Korakuen Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_11_06",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.04",
+      "title": "Hiromu Takahashi vs Taiji Ishimori",
+      "url": "https://njpwworld.com/p/s_series_00484_10_07",
+      "event": "BoSJ Day 14",
+      "location": "Korakuen Hall",
+      "notes": "Best of the Super Jr's FINAL",
+      "englishUrl": "https://njpwworld.com/p/s_series_00484_11_07",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.09",
+      "title": "Hirooki Goto (c) vs Michael Elgin vs Taichi",
+      "url": "https://njpwworld.com/p/s_series_00485_1_04",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "NEVER Openweight Title",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_04",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.09",
+      "title": "EVIL & SANADA (c) vs The Young Bucks",
+      "url": "https://njpwworld.com/p/s_series_00485_1_05",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "IWGP Heavyweight Tag Titles",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_05",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.09",
+      "title": "Tanahashi, Liger & Rey Mysterio Jr. vs Cody, Hangman & Scurll",
+      "url": "https://njpwworld.com/p/s_series_00485_1_06",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_06",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.09",
+      "title": "Will Ospreay (c) vs Hiromu Takahashi",
+      "url": "https://njpwworld.com/p/s_series_00485_1_07",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "IWGP Jr. Heavyweight Title",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_07",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.09",
+      "title": "Tetsuya Naito (c) vs Chris Jericho",
+      "url": "https://njpwworld.com/p/s_series_00485_1_08",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "IWGP Intercontinental Title",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_08",
+      "recommendationLevel": 1
+    },
+    {
+      "date": "2018.06.09",
+      "title": "Kazuchika Okada (c) vs Kenny Omega",
+      "url": "https://njpwworld.com/p/s_series_00485_1_09",
+      "event": "Dominion ",
+      "location": "Osaka Jo-Hall",
+      "notes": "IWGP Heavyweight Title, 2/3 Falls",
+      "englishUrl": "https://njpwworld.com/p/s_series_00485_2_09",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.13",
+      "title": "Ayato Yoshida vs Shota Umino",
+      "url": "https://njpwworld.com/p/s_series_00486_1_1",
+      "event": "Lion's Gate Project: 13",
+      "location": "Shinjuku FACE",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00486_2_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.17",
+      "title": "Juice, Tanahashi & Finlay vs Switchblade, Okada & Ishii",
+      "url": "https://njpwworld.com/p/s_series_00487_1_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00487_3_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.17",
+      "title": "Michael Elgin (c) vs Hirooki Goto",
+      "url": "https://njpwworld.com/p/s_series_00487_1_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "NEVER Openweight Title",
+      "englishUrl": "https://njpwworld.com/p/s_series_00487_3_1",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.18",
+      "title": "Yota Tsuji vs Yuya Uemura",
+      "url": "https://njpwworld.com/p/s_series_00487_2_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00487_4_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.18",
+      "title": "Tana, Juice, Elgin, Cobb & KUSHIDA vs Switchblade, Okada, Goto, Ishii & Gedo",
+      "url": "https://njpwworld.com/p/s_series_00487_2_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "",
+      "englishUrl": "https://njpwworld.com/p/s_series_00487_4_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.18",
+      "title": "Hiromu Takahashi (c) vs El Desperado",
+      "url": "https://njpwworld.com/p/s_series_00487_2_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "IWGP Jr. Heavyweight Title",
+      "englishUrl": "https://njpwworld.com/p/s_series_00487_4_1",
+      "recommendationLevel": 2
+    },
+    {
+      "date": "2018.06.19",
+      "title": "Machine-gundan vs Los Ingobernables",
+      "url": "https://njpwworld.com/p/s_series_00488_1_1",
+      "event": "Kizuna Road",
+      "location": "Korakuen Hall",
+      "notes": "Super Strong Machine Retirement Match",
+      "englishUrl": "https://njpwworld.com/p/s_series_00488_2_1",
+      "recommendationLevel": 0
+    },
+    {
+      "date": "2018.06.23",
+      "title": "Honma, Makabe, Tana, Henare, Taguchi vs Naito, EVIL, SANADA, BUSHI, Hiromu",
+      "url": "https://njpwworld.com/p/s_series_00487_5_07",
+      "event": "Kizuna Road",
+      "location": "Yamagata Big Wing",
+      "notes": "Tomoaki Honma Return Match",
+      "recommendationLevel": 0
     }
   ]
 }
